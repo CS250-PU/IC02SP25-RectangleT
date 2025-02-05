@@ -13,8 +13,8 @@
 class Rectangle {
 public:
   Rectangle (double = 1.0, double = 1.0);
-  void setLength (double length);
-  void setWidth (double width);
+  void setLength (double);
+  void setWidth (double);
   double getLength () const;
   double getWidth () const;
   double getArea () const;
