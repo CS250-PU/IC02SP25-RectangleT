@@ -7,6 +7,7 @@
 // Purpose:		 Declares each of the function prototypes associated with 
 //						 class Rectangle also known as the Rectangle Interface
 //******************************************************************************
+#pragma once
 
 #include <fstream>
 
